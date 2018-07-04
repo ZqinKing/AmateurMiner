@@ -1,6 +1,6 @@
 # AmateurMiner
 # 白帽小钢炮
-### [DownLoad](https://mega.nz/#F!SjwlSCpK!itdf0_wckorjak5dKeXBIQ)<br>
+### [DownLoad](https://github.com/ZqinKing/AmateurMiner/releases)<br>
 ####    V2.3(2018.07.04)<br>
 #####   1、Support ETH&ETC&BYTOM(BTM)<br>
 #####   1、支持ETH、ETC、BTM挖矿<br>
