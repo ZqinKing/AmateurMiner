@@ -1,4 +1,5 @@
 # AmateurMiner
+# 白帽小钢炮
 1、Support ETH&ETC&BYTOM(BTM)
 1、支持ETH、ETC、BTM挖矿
 2、Cost reduction（ETC&ETH devfee 0.3%, BTM devfee 0.5%）
