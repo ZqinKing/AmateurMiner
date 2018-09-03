@@ -2,6 +2,10 @@
 # 白帽小钢炮
 ### [DownLoad](https://github.com/ZqinKing/AmateurMiner/releases)<br>
 #####  <br>
+####  V2.8(2018.09.03)<br>
+#####  1、增加对HSPMiner的支持<br>
+#####  <br>
+#####  <br>
 ####  V2.6(2018.07.21)<br>
 #####  1、稳定性修复<br>
 #####  2、放弃对Claymore的重启操作，使用Claymore是每30分钟，会设置一次dcri以便于A卡机获得更好的算力<br>
